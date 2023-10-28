@@ -13,6 +13,34 @@
 - ⚡ Fun fact: People stop associating coding as an intellectual activity after speaking to me for a minimum of 3 minutes
 
 <h3 align="left">Casual platforms:</h3>
+- Discord: steakfisher <br>
+- Instagram: _jay.deep
+
+<h3 align="center">Toolset</h3>
+<p>
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg' width=50 height=50>
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg' width=50 height=50>
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg' width=50 height=50>
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg' width=50 height=50>
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg' width=50 height=50>
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg' width=50 height=50>
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg' width=50 height=50>
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg' width=50 height=50>
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg' width=50 height=50>
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg' width=50 height=50>
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg' width=50 height=50>
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg' width=50 height=50>
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg' width=50 height=50>
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg' width=50 height=50>
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg' width=50 height=50>
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg' width=50 height=50>
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg' width=50 height=50>
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg' width=50 height=50>
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg' width=50 height=50>
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg' width=50 height=50>
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg' width=50 height=50>
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg' width=50 height=50>
+</p>
 
 <!--
 **SteakFisher/SteakFisher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
