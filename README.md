@@ -39,8 +39,13 @@
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' width=50 height=50>
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg' width=50 height=50>
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg' width=50 height=50>
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg' width=50 height=50>
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg' width=50 height=50><br>
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg' width=50 height=50>
+  <img src='https://avatars.githubusercontent.com/u/35612527?s=200&v=4' width=50 height=50>
+  <img src='https://avatars.githubusercontent.com/u/17219288?s=200&v=4' width=50 height=50>
+  <img src='https://avatars.githubusercontent.com/u/108468352?s=200&v=4' width=50 height=50>
+  <img src='https://avatars.githubusercontent.com/u/54469796?s=200&v=4' width=50 height=50>
+  <img src='https://avatars.githubusercontent.com/u/14985020?s=200&v=4' width=50 height=50>
   
 </p>
 
