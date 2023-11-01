@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on ✨ **Game Development, Web Development** ✨
 - 🤔 I’m looking for help with ✨ **Front-end Development** ✨
 - 💬 Ask me about ✨**NextJS, Vercel, Back-end Development** ✨
-- 📫 How to reach me: ✨ **jaydeepbejoy@gmail.com** ✨
+- 📫 How to reach me: ✨ **jdeepbejoy@gmail.com** ✨
 - ⚡ Fun fact: People stop associating coding as an intellectual activity after speaking to me for a minimum of 3 minutes
 
 <h3 align="left">Casual platforms:</h3>
