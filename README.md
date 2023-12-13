@@ -11,6 +11,7 @@
 - 💬 Ask me about ✨**NextJS, Vercel, Back-end Development** ✨
 - 📫 How to reach me: ✨ **jdeepbejoy@gmail.com** ✨
 - ⚡ Fun fact: People stop associating coding as an intellectual activity after speaking to me for a minimum of 3 minutes
+- 📜 Imposter syndroming since '05
 
 <h3 align="left">Casual platforms:</h3>
 - Discord: steakfisher <br>
