@@ -1,4 +1,4 @@
-<h1 align='center'>Hello there 👋 I'm Jayadeep Bejoy</h1>![Linked](https://github.com/SteakFisher/SteakFisher/assets/88953813/10f787e4-00eb-41ef-8e90-3eaa53ccbb1e)
+<h1 align='center'>Hello there 👋 I'm Jayadeep Bejoy</h1>
 
 
 <h4 align='center'>Bored-during-covid-developer</h6> 
