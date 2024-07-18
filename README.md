@@ -1,17 +1,11 @@
-<h1 align='center'>Hello there 👋 I'm Jayadeep Bejoy</h1>
+<h1 align='center'>Painfully Jayadeep Bejoy</h1>
 
 
 <h4 align='center'>Bored-during-covid-developer</h6> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=steakfisher&label=Profile%20views&color=00ffef&style=flat" alt="SteakFisher" /> </p>
-
-- 🔭 I’m currently working on ✨ **Systems Architecture, Low Level Design** ✨
-- 🌱 I’m currently learning ✨ **Cloud Computing, Internet Of Things** ✨
-- 👯 I’m looking to collaborate on ✨ **Game Development, Web Development** ✨
-- 🤔 I’m looking for help with ✨ **Front-end Development** ✨
-- 💬 Ask me about ✨**NextJS, Vercel, Back-end Development** ✨
-- 📫 How to reach me: ✨ **jdeepbejoy@gmail.com** ✨
-- ⚡ Fun fact: People stop associating coding as an intellectual activity after speaking to me for a minimum of 3 minutes
+- 📫 ✨ <b>jdeepbejoy@gmail.com</b> ✨ <br />
+- ⚡ Fun fact: People stop associating coding as an intellectual activity after speaking to me for a minimum of 3 minutes  <br />
 - 📜 Imposter syndroming since '05
 
 <h3 align="left">Casual platforms:</h3>
